@@ -192,6 +192,6 @@ Contributions, issues and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-**Akhil** — [@surakshasharma](https://github.com/surakshasharm)
+**Suraksha** — [@surakshasharma](https://github.com/surakshasharm)
 
 ---
